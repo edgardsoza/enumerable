@@ -2,7 +2,7 @@
 module MyEnumerable
   def all?
     each do |y|
-  return false unless yield(y)
+      return false unless yield(y)
     end
     true
   end
