@@ -100,25 +100,10 @@ Clone the repo into your local machine:
 git clone git@github.com:edgardsoza/enumerable/tree/enumerable.git
 ```
 
-Install the dependencies using npm:
-```bash
-npm install
-```
-
 ### Usage
 
-To start the development server run
-```bash
-npm run start
-```
-- this command will start the development server on `localhost:8080` address
-
-To create and optimized production build run
-```bash
-npm run build
-```
-- this command will create a bunduled chunks of code inside `dist/` folder
-
+To run the program, you should use irb in the wsl if you use Windows:
+irb> my_list.rb
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -154,6 +139,8 @@ npm run build
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
+
+https://github.com/edgardsoza/enumerable/issues
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
