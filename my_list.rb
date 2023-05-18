@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 require_relative './my_enumerable'
 # This class represents a custom list implementation.
 class MyList
